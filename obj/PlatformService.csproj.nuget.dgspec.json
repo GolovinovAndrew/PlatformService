@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My\\Projects\\VSCode\\MicroService\\PlatformService\\PlatformService.csproj": {}
+    "D:\\My\\Project\\MicroServices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "E:\\My\\Projects\\VSCode\\MicroService\\PlatformService\\PlatformService.csproj": {
+    "D:\\My\\Project\\MicroServices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My\\Projects\\VSCode\\MicroService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\My\\Project\\MicroServices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "E:\\My\\Projects\\VSCode\\MicroService\\PlatformService\\PlatformService.csproj",
-        "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "E:\\My\\Projects\\VSCode\\MicroService\\PlatformService\\obj\\",
+        "projectPath": "D:\\My\\Project\\MicroServices\\PlatformService\\PlatformService.csproj",
+        "packagesPath": "C:\\Users\\6\\.nuget\\packages\\",
+        "outputPath": "D:\\My\\Project\\MicroServices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\6\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
